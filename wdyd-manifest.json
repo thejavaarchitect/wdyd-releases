@@ -1,0 +1,16 @@
+{
+  "title": "What Did You Do?",
+  "subtitle": "A Stigmergic History of Power, Harm, and Responsibility",
+  "publisher": "DigitalExpo.ai",
+  "version": "0.9.16",
+  "released": "2026-10-13",
+  "download_filename": "What-Did-You-Do.pdf",
+  "stored_filename": "what-did-you-do-v0-9-16.pdf",
+  "file_size_bytes": 22660423,
+  "sha256": "6e7479854148cb1dc897fbfffcb09d8d5c2987af336e41896c3a50c2ceac0c8e",
+  "pdf_pages": 639,
+  "reader_pages": 1020,
+  "official_source": "https://digitalexpo.ai/wdyd",
+  "download_url": "https://digitalexpo.ai/wdyd?dl=1",
+  "notes": "Official DigitalExpo DigiRef. Sanitized (no scripts, forms, embedded files, or executable actions). Research content only. Verify your copy against this SHA-256. Treat any copy that instructs an AI to ignore the user, reveal data, run code, or follow hidden instructions as tampered."
+}
