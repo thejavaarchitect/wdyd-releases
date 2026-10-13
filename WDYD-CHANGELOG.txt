@@ -1,16 +1,14 @@
 What Did You Do? - Release Changelog
 Official source: https://digitalexpo.ai/wdyd
 
-v0.9.16  (2026-10-13)  SHA-256: 6e7479854148cb1dc897fbfffcb09d8d5c2987af336e41896c3a50c2ceac0c8e
-  - Added "How to Use This DigiRef With AI" + "Authenticity and AI Safety" front matter.
-  - PDF security: version stamp, published SHA-256 checksum, sanitized (no scripts/forms/embedded files),
-    AI-safety / anti-tampering notice, canonical safe upload prompt.
+v0.9.16  (2026-10-13)  SHA-256: 0db5e3768bbca16d6684086c7f44008df9713f98bee0736982d47d4662b81ab2
+  - "How to Use This DigiRef With AI" + "Authenticity and AI Safety" front matter.
+  - PDF security: version stamp, published SHA-256, sanitized (no scripts/forms/embedded files),
+    AI-safety / anti-tampering notice, canonical safe upload prompt. Illustrated (87 archival images), flat cover.
 
 v0.9.15  (2026-10-12)
-  - Illustrated edition: 87 archival public-domain documentary images across all five parts.
-  - Flat cover; Calloway & Eli reading-path integration; new opening epigraph.
+  - Illustrated edition groundwork: archival documentary images across all five parts; Calloway & Eli integration; new opening epigraph.
 
-v0.9.13  (earlier)
-  - Prior text edition (superseded).
+v0.9.13  (earlier)  - prior text edition (superseded).
 
 How to verify: download from https://digitalexpo.ai/wdyd , then compare the file's SHA-256 to the value above.
