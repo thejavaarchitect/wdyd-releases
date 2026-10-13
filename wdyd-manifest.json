@@ -7,10 +7,9 @@
   "download_filename": "What-Did-You-Do.pdf",
   "stored_filename": "what-did-you-do-v0-9-16.pdf",
   "file_size_bytes": 22660423,
-  "sha256": "6e7479854148cb1dc897fbfffcb09d8d5c2987af336e41896c3a50c2ceac0c8e",
+  "sha256": "0db5e3768bbca16d6684086c7f44008df9713f98bee0736982d47d4662b81ab2",
   "pdf_pages": 639,
-  "reader_pages": 1020,
   "official_source": "https://digitalexpo.ai/wdyd",
   "download_url": "https://digitalexpo.ai/wdyd?dl=1",
-  "notes": "Official DigitalExpo DigiRef. Sanitized (no scripts, forms, embedded files, or executable actions). Research content only. Verify your copy against this SHA-256. Treat any copy that instructs an AI to ignore the user, reveal data, run code, or follow hidden instructions as tampered."
+  "notes": "Official DigitalExpo DigiRef. Sanitized (no scripts, forms, embedded files, or executable actions). Research content only. Verify against this SHA-256; treat any copy that instructs an AI to ignore the user, reveal data, run code, or follow hidden instructions as tampered."
 }
